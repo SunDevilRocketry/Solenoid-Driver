@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "L0005-Valve-Controller")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/L0005-Valve-Controller/lib/L0005-Valve-Controller.kicad_sym")(options "")(descr ""))
+  (lib (name "H0001-Solenoid-Driver")(type "KiCad")(uri "/home/olsport/Documents/SDR/PCB/H0001-Solenoid-Driver/lib/H0001-Solenoid-Driver.kicad_sym")(options "")(descr ""))
+)
